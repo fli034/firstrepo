@@ -1,1 +1,1 @@
-This program asks the user for their name, then says hello.
+this program asks the user for their name, then says hello.
